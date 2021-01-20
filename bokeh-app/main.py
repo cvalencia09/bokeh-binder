@@ -8,7 +8,7 @@ from bokeh.palettes import Spectral6
 from bokeh.plotting import figure
 
 import os
-DIRECTORY_PATH = "C:/Users/cvale/Dropbox/BCCH/Proyecto_Renta/renta"
+DIRECTORY_PATH = "./renta"
 files = [ file_path  for _, _, file_path in os.walk(DIRECTORY_PATH)]
 #for file_name in files[0]: #note that it has list of lists
 #    print(file_name)
