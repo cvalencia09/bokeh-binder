@@ -1,10 +1,8 @@
 dependencies:
-    - bokeh
-    - backcall
-    - numpy
-    - ipykernel
-    - pandas
-    - io
-    - pip
-    - pip:
-      - jupyter-server-proxy
+  - bokeh
+  - pandas
+  - scipy
+  - io
+  - pip
+  - pip:
+    - jupyter-server-proxy
