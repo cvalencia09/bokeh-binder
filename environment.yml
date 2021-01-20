@@ -1,25 +1,10 @@
 dependencies:
     - bokeh
-    - parso
-    - decorator
-    - jinja2
-    - colorama
     - backcall
-    - jedi
-    - pickleshare
-    - traitlets
-    - pytz
-    - six
-    - simplejson
-    - bottleneck
     - numpy
     - ipykernel
-    - markupsafe
-    - pygments
-    - tornado
     - pandas
-    - cffi
-    - wcwidth
+    - io
     - pip
     - pip:
       - jupyter-server-proxy
